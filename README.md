@@ -38,7 +38,7 @@ Date: 22/08/2025 - On-going (Every Friday 10pm ET / 7pm PT / Saturday 10am HKT
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----- |
 | W1 (22/8): Research Brainstorm Meeting | [Max Ku](https://kuwingfung.github.io/) (UWaterloo)                                  | N/A                                                                                                   | N/A   |
 | W2 (29/8):  Large Language Diffusion Models                                                                                                              | George Leung (Novo Nordisk)                           | N/A                                                                                                   | N/A   |
-
+| W10 (25/10): Does Generative Retrieval Overcome the Limitations of Dense Retrieval? | [Abner Den (NTU)(SinoPac)](https://abnerteng.github.io) | [slide](https://drive.google.com/file/d/1RBxdtU4pSJ9NChSL43sY4t5S7ufw-1Hi/view?usp=sharing) | N/A | 
 
 # Cycle 4
 
